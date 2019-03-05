@@ -26,9 +26,21 @@ Refactor the application
 
 # Instructions
 
-- Clone the repo
-- Create your own branch
+- Fork the repo
 - Get your own API key from [TheMovieDB.org](https://www.themoviedb.org/)
   - [API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
 - Refactor the code
-- Submit a PR
+- Send us a link to your repo
+
+--- 
+
+# Env file
+
+You will need to add a .env file. Here are the value you need
+
+```javascript
+NODE_PATH=src/
+REACT_APP_MOVIE_DB_KEY='your api key here'
+REACT_APP_POSTER_PATH='https://image.tmdb.org/t/p/w154'
+REACT_APP_BACKDROP_PATH='https://image.tmdb.org/t/p/w1280'
+```
