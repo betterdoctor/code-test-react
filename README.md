@@ -46,8 +46,9 @@ Refactor the application
 - Get an API key from [TheMovieDB.org](https://www.themoviedb.org/)
   - [API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
 - Refactor the code
-- Share your solution with us.  
-You decide how to share it back to us. Share it privately, no public repos please.
+- GZIP your repo with your solution and send it to us.
+
+Note: Please do not post the solution in a public repo.
 
 --- 
 
